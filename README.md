@@ -1,4 +1,4 @@
-# rustfmt [![linux](https://github.com/rust-lang/rustfmt/actions/workflows/linux.yml/badge.svg?event=push)](https://github.com/rust-lang/rustfmt/actions/workflows/linux.yml) [![mac](https://github.com/rust-lang/rustfmt/actions/workflows/mac.yml/badge.svg?event=push)](https://github.com/rust-lang/rustfmt/actions/workflows/mac.yml) [![windows](https://github.com/rust-lang/rustfmt/actions/workflows/windows.yml/badge.svg?event=push)](https://github.com/rust-lang/rustfmt/actions/workflows/windows.yml) [![crates.io](https://img.shields.io/crates/v/rustfmt-nightly.svg)](https://crates.io/crates/rustfmt-nightly)
+# rustfmt [![linux](https://github.com/Unity-Billal-mesloub/rustfmt/actions/workflows/linux.yml/badge.svg?event=push)](https://github.com/Unity-Billal-mesloub/rustfmt/actions/workflows/linux.yml) [![mac](https://github.com/Unity-Billal-mesloub/rustfmt/actions/workflows/mac.yml/badge.svg?event=push)](https://github.com/Unity-Billal-mesloub/rustfmt/actions/workflows/mac.yml) [![windows](https://github.com/Unity-Billal-mesloub/rustfmt/actions/workflows/windows.yml/badge.svg?event=push)](https://github.com/Unity-Billal-mesloub/rustfmt/actions/workflows/windows.yml) [![crates.io](https://img.shields.io/crates/v/rustfmt-nightly.svg)](https://crates.io/crates/rustfmt-nightly)
 
 A tool for formatting Rust code according to style guidelines.
 
@@ -111,8 +111,8 @@ completed without error (whether or not changes were made).
 
 ## Running Rustfmt from your editor
 
-* [Vim](https://github.com/rust-lang/rust.vim#formatting-with-rustfmt)
-* [Emacs](https://github.com/rust-lang/rust-mode)
+* [Vim](https://github.com/Unity-Billal-mesloub/rust.vim#formatting-with-rustfmt)
+* [Emacs](https://github.com/Unity-Billal-mesloub/rust-mode)
 * [Sublime Text 3](https://packagecontrol.io/packages/RustFmt)
 * [Atom](atom.md)
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
@@ -250,6 +250,6 @@ Apache License (Version 2.0).
 
 See [LICENSE-APACHE](LICENSE-APACHE) and [LICENSE-MIT](LICENSE-MIT) for details.
 
-[rust]: https://github.com/rust-lang/rust
-[fmt rfcs]: https://github.com/rust-dev-tools/fmt-rfcs
+[rust]: https://github.com/Unity-Billal-mesloub/rust
+[fmt rfcs]: https://github.com/Unity-Billal-mesloub/fmt-rfcs
 [style guide]: https://doc.rust-lang.org/nightly/style-guide/
